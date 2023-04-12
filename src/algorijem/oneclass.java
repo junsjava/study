@@ -161,7 +161,7 @@ public class oneclass {
 		}
 		
 		
-		System.out.println("넘어간닷");
+		System.out.println("넘어간닷.");
 		
 		
 	}
